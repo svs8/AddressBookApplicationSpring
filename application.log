@@ -1,0 +1,35 @@
+2022-2022-08 12:32 [INFO][restartedMain][c.b.a.AddressBookAppApplication:55] Starting AddressBookAppApplication using Java 18.0.1 on LAPTOP-4BSBUFAS with PID 27772 (C:\CFPProjects\AddressBookApp\target\classes started by Hp in C:\CFPProjects\AddressBookApp)
+2022-2022-08 12:32 [DEBUG][restartedMain][c.b.a.AddressBookAppApplication:56] Running with Spring Boot v2.7.2, Spring v5.3.22
+2022-2022-08 12:32 [INFO][restartedMain][c.b.a.AddressBookAppApplication:640] The following 1 profile is active: "prod"
+2022-2022-08 12:33 [WARN][restartedMain][c.z.h.u.DriverDataSource:70] Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2022-2022-08 12:33 [WARN][restartedMain][o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration:219] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-2022-08 12:33 [INFO][restartedMain][c.b.a.AddressBookAppApplication:61] Started AddressBookAppApplication in 6.743 seconds (JVM running for 8.801)
+2022-2022-08 12:33 [INFO][restartedMain][c.b.a.AddressBookAppApplication:14] Address Book Application Started in PROD Environment
+2022-2022-08 12:36 [INFO][restartedMain][c.b.a.AddressBookAppApplication:55] Starting AddressBookAppApplication using Java 18.0.1 on LAPTOP-4BSBUFAS with PID 29924 (C:\CFPProjects\AddressBookApp\target\classes started by Hp in C:\CFPProjects\AddressBookApp)
+2022-2022-08 12:36 [DEBUG][restartedMain][c.b.a.AddressBookAppApplication:56] Running with Spring Boot v2.7.2, Spring v5.3.22
+2022-2022-08 12:36 [INFO][restartedMain][c.b.a.AddressBookAppApplication:640] The following 1 profile is active: "prod"
+2022-2022-08 12:36 [WARN][restartedMain][c.z.h.u.DriverDataSource:70] Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2022-2022-08 12:36 [WARN][restartedMain][o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration:219] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-2022-08 12:36 [INFO][restartedMain][c.b.a.AddressBookAppApplication:61] Started AddressBookAppApplication in 6.108 seconds (JVM running for 7.753)
+2022-2022-08 12:36 [INFO][restartedMain][c.b.a.AddressBookAppApplication:14] Address Book Application Started in PROD Environment
+2022-2022-08 12:37 [INFO][restartedMain][c.b.a.AddressBookAppApplication:55] Starting AddressBookAppApplication using Java 18.0.1 on LAPTOP-4BSBUFAS with PID 26708 (C:\CFPProjects\AddressBookApp\target\classes started by Hp in C:\CFPProjects\AddressBookApp)
+2022-2022-08 12:37 [DEBUG][restartedMain][c.b.a.AddressBookAppApplication:56] Running with Spring Boot v2.7.2, Spring v5.3.22
+2022-2022-08 12:37 [INFO][restartedMain][c.b.a.AddressBookAppApplication:640] The following 1 profile is active: "prod"
+2022-2022-08 12:37 [WARN][restartedMain][c.z.h.u.DriverDataSource:70] Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2022-2022-08 12:37 [WARN][restartedMain][o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration:219] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-2022-08 12:37 [INFO][restartedMain][c.b.a.AddressBookAppApplication:61] Started AddressBookAppApplication in 5.792 seconds (JVM running for 7.619)
+2022-2022-08 12:37 [INFO][restartedMain][c.b.a.AddressBookAppApplication:14] Address Book Application Started in PROD Environment
+2022-2022-08 12:39 [INFO][restartedMain][c.b.a.AddressBookAppApplication:55] Starting AddressBookAppApplication using Java 18.0.1 on LAPTOP-4BSBUFAS with PID 26708 (C:\CFPProjects\AddressBookApp\target\classes started by Hp in C:\CFPProjects\AddressBookApp)
+2022-2022-08 12:39 [DEBUG][restartedMain][c.b.a.AddressBookAppApplication:56] Running with Spring Boot v2.7.2, Spring v5.3.22
+2022-2022-08 12:39 [INFO][restartedMain][c.b.a.AddressBookAppApplication:640] The following 1 profile is active: "prod"
+2022-2022-08 12:39 [WARN][restartedMain][c.z.h.u.DriverDataSource:70] Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2022-2022-08 12:39 [WARN][restartedMain][o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration:219] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-2022-08 12:39 [INFO][restartedMain][c.b.a.AddressBookAppApplication:61] Started AddressBookAppApplication in 1.344 seconds (JVM running for 83.351)
+2022-2022-08 12:39 [INFO][restartedMain][c.b.a.AddressBookAppApplication:14] Address Book Application Started in PROD Environment
+2022-2022-08 12:39 [INFO][restartedMain][c.b.a.AddressBookAppApplication:55] Starting AddressBookAppApplication using Java 18.0.1 on LAPTOP-4BSBUFAS with PID 26708 (C:\CFPProjects\AddressBookApp\target\classes started by Hp in C:\CFPProjects\AddressBookApp)
+2022-2022-08 12:39 [DEBUG][restartedMain][c.b.a.AddressBookAppApplication:56] Running with Spring Boot v2.7.2, Spring v5.3.22
+2022-2022-08 12:39 [INFO][restartedMain][c.b.a.AddressBookAppApplication:640] The following 1 profile is active: "prod"
+2022-2022-08 12:39 [WARN][restartedMain][c.z.h.u.DriverDataSource:70] Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2022-2022-08 12:39 [WARN][restartedMain][o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration:219] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-2022-08 12:39 [INFO][restartedMain][c.b.a.AddressBookAppApplication:61] Started AddressBookAppApplication in 1.655 seconds (JVM running for 94.594)
+2022-2022-08 12:39 [INFO][restartedMain][c.b.a.AddressBookAppApplication:14] Address Book Application Started in PROD Environment
