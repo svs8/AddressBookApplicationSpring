@@ -29,6 +29,17 @@ public class AddressBookService implements IAddressBookService{
     }
 
     @Override
+    public List<AddressBookData> getContactsByCity(String city) {
+        return addressBookRepository.findContactByCity((city));
+    }
+
+    @Override
+    public List<AddressBookData> getContactsByState(String state) {
+        return addressBookRepository.findContactByState((state));
+    }
+
+
+    @Override
     public AddressBookData createAddressBookData(AddressBookDTO addressBookDTO) {
         AddressBookData addressBookData = new AddressBookData(addressBookDTO);
         log.debug("Emp Data: " +addressBookData.toString());
@@ -49,4 +60,5 @@ public class AddressBookService implements IAddressBookService{
         AddressBookData addressBookData = this.getAddressBookDataById(personId);
         addressBookRepository.delete(addressBookData);
     }
+
 }

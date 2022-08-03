@@ -57,4 +57,21 @@ public class AddressBookController {
                 "ID number: "+personId + " DELETED!!!");
         return new ResponseEntity<>(responseDTO, HttpStatus.OK);
     }
+
+    @GetMapping("/city/{city}")
+    public ResponseEntity<ResponseDTO> getContactsByCity(@PathVariable("city") String city){
+        List<AddressBookData> addressBookList = null;
+        addressBookList = addressBookService.getContactsByCity(city);
+        ResponseDTO responseDTO = new ResponseDTO("Get Call For ID Department Successful",addressBookList);
+        return new ResponseEntity<ResponseDTO>(responseDTO,HttpStatus.OK);
+    }
+
+    @GetMapping("/state/{state}")
+    public ResponseEntity<ResponseDTO> getContactsByState(@PathVariable("state") String state){
+        List<AddressBookData> addressBookList = null;
+        addressBookList = addressBookService.getContactsByState(state);
+        ResponseDTO responseDTO = new ResponseDTO("Get Call For ID Department Successful",addressBookList);
+        return new ResponseEntity<ResponseDTO>(responseDTO,HttpStatus.OK);
+    }
+
 }
