@@ -74,4 +74,17 @@ public class AddressBookController {
         return new ResponseEntity<ResponseDTO>(responseDTO,HttpStatus.OK);
     }
 
+    @GetMapping(value = {"/city"})
+    public ResponseEntity<ResponseDTO> orderContactsByCity() {
+        List<AddressBookData> addressBookList = addressBookService.orderContactsByCity();
+        ResponseDTO responseDTO = new ResponseDTO("Contact details sorted by City!!!", addressBookList);
+        return new ResponseEntity<>(responseDTO, HttpStatus.OK);
+    }
+
+    @GetMapping(value = {"/state"})
+    public ResponseEntity<ResponseDTO> orderContactsByState() {
+        List<AddressBookData> addressBookList = addressBookService.orderContactsByState();
+        ResponseDTO responseDTO = new ResponseDTO("Contact details sorted by State!!!", addressBookList);
+        return new ResponseEntity<>(responseDTO, HttpStatus.OK);
+    }
 }

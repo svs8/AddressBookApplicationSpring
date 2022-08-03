@@ -21,4 +21,7 @@ public interface IAddressBookService {
 
     void deleteAddressBookData(int personId);
 
+    List<AddressBookData> orderContactsByCity();
+
+    List<AddressBookData> orderContactsByState();
 }
